@@ -6,6 +6,6 @@
   -  **What went less well?**: 
          At first, I was a little bit slow in doing the work and now I am quite better and able to do good and fast
  -  **Lessons Learned**: 
-        Creating issues, installing, and completing my checklist. Personally, I learned how to engage in group discussions
+        Creating issues, installing, and completing my checklist. Personally, I learned how to engage in group discussions.
  -  **Sunday Prep Work**: 
          I started reading the material for next week's workflow.
